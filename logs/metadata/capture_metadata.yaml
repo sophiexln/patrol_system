@@ -1,0 +1,196 @@
+captures:
+- capture_status: failure
+  image_filename: failure_0_20250613-084503.jpg
+  orientation:
+    w: 0.5293328473433144
+    x: 0.0
+    y: 0.0
+    z: -0.8484142483029262
+  position:
+    x: 0.15901152898071247
+    y: -0.38119770572638695
+    z: 0.0
+  timestamp: '2025-06-13 08:45:03'
+  waypoint_id: 0
+- capture_status: failure
+  image_filename: failure_1_20250613-084538.jpg
+  orientation:
+    w: 0.7700478457856378
+    x: 0.0
+    y: 0.0
+    z: -0.6379861402890337
+  position:
+    x: -0.19400544019136795
+    y: -0.6572625606046869
+    z: 0.0
+  timestamp: '2025-06-13 08:45:38'
+  waypoint_id: 1
+- capture_status: failure
+  image_filename: failure_2_20250613-084622.jpg
+  orientation:
+    w: 0.6650822085980417
+    x: 0.0
+    y: 0.0
+    z: -0.7467701492469762
+  position:
+    x: -0.18517139565977522
+    y: -0.6708225464588816
+    z: 0.0
+  timestamp: '2025-06-13 08:46:22'
+  waypoint_id: 2
+- capture_status: failure
+  image_filename: failure_0_20250613-100740.jpg
+  orientation:
+    w: 0.9090523881513058
+    x: 0.0
+    y: 0.0
+    z: -0.41668183977275464
+  position:
+    x: -0.05485254820864498
+    y: 0.05067441082618438
+    z: 0.0
+  timestamp: '2025-06-13 10:07:40'
+  waypoint_id: 0
+- capture_status: success
+  image_filename: current_1_20250613-100807.jpg
+  orientation:
+    w: 0.9429425367758277
+    x: 0.0
+    y: 0.0
+    z: -0.3329555110503005
+  position:
+    x: 1.1240660039500043
+    y: -1.9015633101950251
+    z: 0.0
+  timestamp: '2025-06-13 10:08:07'
+  waypoint_id: 1
+- capture_status: success
+  image_filename: current_2_20250613-100818.jpg
+  orientation:
+    w: 0.006172020458655315
+    x: 0.0
+    y: 0.0
+    z: -0.999980952900333
+  position:
+    x: -0.04878195573826325
+    y: -2.5279182790225088
+    z: 0.0
+  timestamp: '2025-06-13 10:08:18'
+  waypoint_id: 2
+- capture_status: failure
+  image_filename: failure_0_20250613-101059.jpg
+  orientation:
+    w: 0.7511592011520714
+    x: 0.0
+    y: 0.0
+    z: -0.6601210908042418
+  position:
+    x: -0.06242823919329753
+    y: -2.4588457489584057
+    z: 0.0
+  timestamp: '2025-06-13 10:10:59'
+  waypoint_id: 0
+- capture_status: failure
+  image_filename: failure_1_20250613-101118.jpg
+  orientation:
+    w: 0.7027473206018001
+    x: 0.0
+    y: 0.0
+    z: 0.7114395289741714
+  position:
+    x: 0.31056674380599153
+    y: -2.2575069502025835
+    z: 0.0
+  timestamp: '2025-06-13 10:11:18'
+  waypoint_id: 1
+- capture_status: failure
+  image_filename: failure_2_20250613-101140.jpg
+  orientation:
+    w: 0.7027473206018001
+    x: 0.0
+    y: 0.0
+    z: 0.7114395289741714
+  position:
+    x: 0.31056674380599153
+    y: -2.2575069502025835
+    z: 0.0
+  timestamp: '2025-06-13 10:11:40'
+  waypoint_id: 2
+- capture_status: failure
+  image_filename: failure_0_20250613-101514.jpg
+  orientation:
+    w: 0.5021496933193782
+    x: 0.0
+    y: 0.0
+    z: 0.8647807152678963
+  position:
+    x: -0.1905186391965301
+    y: 0.03014551454480026
+    z: 0.0
+  timestamp: '2025-06-13 10:15:14'
+  waypoint_id: 0
+- capture_status: success
+  image_filename: current_1_20250613-101549.jpg
+  orientation:
+    w: 0.8845160242961106
+    x: 0.0
+    y: 0.0
+    z: -0.4665098099326554
+  position:
+    x: 1.1720244084583222
+    y: -1.9478608992947626
+    z: 0.0
+  timestamp: '2025-06-13 10:15:49'
+  waypoint_id: 1
+- capture_status: success
+  image_filename: current_2_20250613-101559.jpg
+  orientation:
+    w: 0.042188407081015705
+    x: 0.0
+    y: 0.0
+    z: 0.9991096728127331
+  position:
+    x: -0.062107242871037006
+    y: -2.555353705984268
+    z: 0.0
+  timestamp: '2025-06-13 10:15:59'
+  waypoint_id: 2
+- capture_status: failure
+  image_filename: failure_0_20250613-102147.jpg
+  orientation:
+    w: 0.8637861497306372
+    x: 0.0
+    y: 0.0
+    z: 0.5038585987492139
+  position:
+    x: -0.05443769223336975
+    y: -0.04715358831663149
+    z: 0.0
+  timestamp: '2025-06-13 10:21:47'
+  waypoint_id: 0
+- capture_status: failure
+  image_filename: failure_1_20250613-102210.jpg
+  orientation:
+    w: 0.9428260113855225
+    x: 0.0
+    y: 0.0
+    z: -0.333285331592716
+  position:
+    x: 1.0465378635405373
+    y: -1.8489688787570513
+    z: 0.0
+  timestamp: '2025-06-13 10:22:10'
+  waypoint_id: 1
+- capture_status: failure
+  image_filename: failure_2_20250613-102221.jpg
+  orientation:
+    w: 0.2314322393134816
+    x: 0.0
+    y: 0.0
+    z: -0.9728510259059953
+  position:
+    x: 0.9655953786479343
+    y: -2.1736197116088394
+    z: 0.0
+  timestamp: '2025-06-13 10:22:21'
+  waypoint_id: 2
